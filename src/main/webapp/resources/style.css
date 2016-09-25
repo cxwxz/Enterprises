@@ -1,0 +1,36 @@
+
+root { 
+    display: block;
+}
+
+#add{
+    float: left;
+    background-color: GOLD;
+
+}
+
+#select{
+    float: left;
+    background-color:  indianred;
+}
+
+#tab{
+    float: right;
+    background-color: blueviolet;
+}
+
+#banner {
+	background-color: #666666;
+	height: 90px;
+}
+
+body{
+/*font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;*/
+background-color: aqua;
+}
+
+
+
+
+
