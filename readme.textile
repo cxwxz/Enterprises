@@ -4,3 +4,5 @@ Project that manage the hierarchy of three main entities: Enterprises -> Departm
 The main goal is to create database model with all main relationships(manyToOne, manyTomany etc.) and different data access (DAO) realisations(JDBC, Hibernate, SpringJDBC etc.) to work with it.
 WEB part is implemented with SpringMVC and JSP(as a view part).
 So the project has MVC structure with 3 layers: DAO, Services, Controllers.
+
+Project on development stage (some DAOs implemetations should be fixed).
