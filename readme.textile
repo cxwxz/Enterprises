@@ -5,4 +5,4 @@ The main goal is to create database model with all main relationships(manyToOne,
 WEB part is implemented with SpringMVC and JSP(as a view part).
 So the project has MVC structure with 3 layers: DAO, Services, Controllers.
 
-Project on development stage (some DAOs implemetations should be fixed).
+<i>Project on development stage (some DAOs implemetations should be fixed).</i>
